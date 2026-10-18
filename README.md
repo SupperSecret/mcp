@@ -16,7 +16,8 @@ Then, in a Claude Code session, run `/mcp`, pick **suppersecret**, and choose
 household Claude may use, and tap **Allow**.
 
 You need a SupperSecret account in a household. During the beta, households
-join by invitation.
+join by invitation. The full guide, including Claude and ChatGPT, is at
+[suppersecret.com/help](https://suppersecret.com/help#ai-apps).
 
 ## What it can do
 
