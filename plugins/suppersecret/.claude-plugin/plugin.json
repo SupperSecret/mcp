@@ -1,0 +1,14 @@
+{
+  "name": "suppersecret",
+  "version": "1.0.0",
+  "description": "Connects Claude to your SupperSecret household: the week's dinners, recipes, pantry, shopping list and guests.",
+  "author": {
+    "name": "WahleTec LLC",
+    "email": "hello@suppersecret.com",
+    "url": "https://suppersecret.com"
+  },
+  "homepage": "https://suppersecret.com",
+  "repository": "https://github.com/osteth/suppersecret-claude",
+  "license": "MIT",
+  "keywords": ["meal-planning", "recipes", "shopping-list", "family", "mcp"]
+}
