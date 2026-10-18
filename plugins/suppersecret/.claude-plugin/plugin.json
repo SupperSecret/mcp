@@ -8,7 +8,7 @@
     "url": "https://suppersecret.com"
   },
   "homepage": "https://suppersecret.com",
-  "repository": "https://github.com/osteth/suppersecret-claude",
+  "repository": "https://github.com/suppersecret/claude",
   "license": "MIT",
   "keywords": ["meal-planning", "recipes", "shopping-list", "family", "mcp"]
 }
