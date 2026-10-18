@@ -7,7 +7,7 @@ shopping list, leftovers and dinner guests, in your
 ## Install
 
 ```bash
-claude plugin marketplace add suppersecret/claude
+claude plugin marketplace add suppersecret/mcp
 claude plugin install suppersecret@suppersecret
 ```
 
